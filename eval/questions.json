@@ -1,0 +1,5 @@
+[
+  {"q": "What is overfitting?", "keywords": ["training data", "generalize"]},
+  {"q": "What is a primary key?", "keywords": ["unique", "row"]},
+  {"q": "Who won the 2018 FIFA World Cup?", "keywords": [], "out_of_scope": true}
+]
